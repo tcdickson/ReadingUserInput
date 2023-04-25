@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallangeRUI/CallangeRUI.iml" filepath="$PROJECT_DIR$/CallangeRUI/CallangeRUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinMaxChallenge/MinMaxChallenge.iml" filepath="$PROJECT_DIR$/MinMaxChallenge/MinMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput.iml" />
+    </modules>
+  </component>
+</project>
